@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+
+}
+
+html {
+    font-size: 16px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar-nav {
+    width: auto; /* Para que la lista de elementos de navegación se ajuste automáticamente */
+}
+
+.titulo{
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+}
+
+.iconos{
+    text-align: center;
+    color: rgb(212, 210, 210);
+}
+
+body {
+    margin: 0;
+    background-color: black;
+}
+.plato-card-gris{
+    background-color: rgb(174, 170, 170);
+}
+img {
+    height: 50vh;
+    object-fit: cover;
+}
+
+.card-body {
+    height: 340px;
+}
+
+@media only screen and (max-width: 600px){
+    .hidden{
+        display: none;
+    }
+}
+/* Estilos para cuando la pantalla es más pequeña o igual a 768px */
+@media (max-width: 1500px) {
+    .col-md-4 {
+        width: 50%; /* Cambiar el ancho a la mitad */
+    }
+}
+
+/* Estilos para cuando la pantalla es más pequeña o igual a 576px */
+@media (max-width: 1000px) {
+    .col-md-4 {
+        width: 100%; /* Cambiar el ancho a todo el ancho disponible */
+    }
+}

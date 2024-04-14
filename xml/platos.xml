@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<platos>
+    <plato carne="Ternera">
+        <title>La Pepita</title>
+        <description tema="Social">Queso Cheddar, lechuga, tomate y cebolla roja en pan artesano.</description>
+        <calorias> 945kcal</calorias>
+        <precio>12,50€</precio>
+        <imagen>hamburguesas/10455_Pepita.png</imagen>
+        <caracteristicas> 
+        <item tipo1="glutenfree" tipo3="queso" tipo4="verduras"></item>
+        </caracteristicas>
+    </plato>
+    <plato carne="Ternera">
+        <title>Chaparrita</title>
+        <description tema="Comedia">Guacamole, pico de gallo, jalapeños, bacon y lechuga</description>
+        <calorias> 1083kcal</calorias>
+        <precio>10,50€</precio>
+        <imagen>hamburguesas/10455_Chaparrita.png</imagen>
+        <caracteristicas> 
+        <item tipo1="glutenfree" tipo4="verduras" tipo6="bacon"></item>
+    
+        </caracteristicas>
+    </plato>
+    <plato carne="Ternera">
+        <title>Reily</title>
+        <description tema="Aventura">Bacon, pepinillos, queso Cheddar, salsa barbacoa, lechuga, tomate y cebolla roja</description>
+        <calorias> 1389kcal</calorias>
+        <precio>11,50€</precio>
+        <imagen>hamburguesas/10455_Reily.png</imagen>
+        <caracteristicas> 
+        <item tipo1="glutenfree" tipo3="queso" tipo4="verduras" tipo6="bacon"></item>
+        </caracteristicas>
+    </plato>
+    <plato carne="Ternera">
+        <title>Smoky</title>
+        <description tema="Aventura">Bacon, mozarella Scamorza ahumada, salsa chili, rúcula, salsa barbacoa y cebolla en tempura.</description>
+        <calorias> 983kcal</calorias>
+        <precio>13,50€</precio>
+        <imagen>hamburguesas/10455_Smoky.png</imagen>
+        <caracteristicas> 
+        <item tipo1="glutenfree" tipo4="verduras" tipo6="bacon"></item>
+        </caracteristicas>
+    </plato>
+    <plato carne="Ternera">
+        <title>Corleone</title>
+        <description tema="Drama">Pesto rojo, mozzarella Scamorza ahumada, panceta troceada y rúcula</description>
+        <calorias> 1232kcal</calorias>
+        <precio>10,50€</precio>
+        <imagen>hamburguesas/10455_Corleone.png</imagen>
+        <caracteristicas> 
+        <item tipo1="glutenfree" tipo4="verduras"></item>
+        </caracteristicas>
+    </plato>
+    <plato carne="Ternera">
+        <title>Sorrentina</title>
+        <description tema="Comedia">Burger de ternera, rúcula, mozzarella fresca fundida, orégano, tomate seco en aceite de oliva y cebolla crujiente</description>
+        <calorias> 1132kcal</calorias>
+        <precio>11,50€</precio>
+        <imagen>hamburguesas/10455_Sorrentina.png</imagen>
+        <caracteristicas> 
+        <item tipo1="glutenfree" tipo4="verduras"></item>
+        </caracteristicas>
+    </plato>
+    <plato carne="Ternera">
+        <title>Rianxeira</title>
+        <description tema="Accion">Queso San Simón gratinado, panceta crujiente, lechuga, tomate y cebolla roja.</description>
+        <calorias> 1032kcal</calorias>
+        <precio>11,50€</precio>
+        <imagen>hamburguesas/10455_Rianxeira.png</imagen>
+        <caracteristicas> 
+        <item tipo1="glutenfree" tipo3="queso" tipo4="verduras"></item>
+        </caracteristicas>
+    </plato>
+    <plato carne="Ternera">
+        <title>Supreme</title>
+        <description tema="Suspense">(Salsa de trufa, crujiente de parmesano, huevo a baja temperatura, aceite de trufa y canónigos)</description>
+        <calorias> 832kcal</calorias>
+        <precio>11,50€</precio>
+        <imagen>hamburguesas/10455_Supreme.png</imagen>
+        <caracteristicas> 
+        <item tipo1="glutenfree" tipo2="huevo" tipo4="verduras"></item>
+        </caracteristicas>
+    </plato>
+    <plato carne="Ternera">
+        <title>Wichita</title>
+        <description tema="Drama">Doble burger de 100 g, bacon crujiente, Cheddar madurado, salsa BBQ al Bourbon y relish de pepinillos</description>
+        <calorias> 1333kcal</calorias>
+        <precio>14,50€</precio>
+        <imagen>hamburguesas/10455_Wichita.png</imagen>
+        <caracteristicas> 
+        <item tipo1="glutenfree" tipo6="bacon"></item>
+        </caracteristicas>
+    </plato>
+    <plato carne="Ternera">
+        <title>Smash Chili</title>
+        <description tema="Suspense">Doble smash burger, queso ahumado, queso Cheddar, cebolla caramelizada, bacon y salsa chile en pan brioche americano</description>
+        <calorias> 1732kcal</calorias>
+        <precio>10,50€</precio>
+        <imagen>hamburguesas/10455_Smash_chili.png</imagen>
+        <caracteristicas> 
+        <item tipo1="glutenfree" tipo5="picante" tipo3="queso" tipo4="verduras" tipo6="bacon"></item>
+        </caracteristicas>
+    </plato>
+    <plato carne="Ternera">
+        <title>Smash Trufada</title>
+        <description tema="Accion">Doble smash burger, queso ahumado, queso Cheddar, bacon, huevo frito y salsa de trufa en pan brioche americano</description>
+        <calorias> 1074kcal</calorias>
+        <precio>11,50€</precio>
+        <imagen>hamburguesas/10455_Smash_trufada.png</imagen>
+        <caracteristicas> 
+        <item tipo1="glutenfree" tipo2="huevo" tipo3="queso"></item>
+        </caracteristicas>
+    </plato>
+        <plato carne="Ternera">
+        <title>Serranita</title>
+        <description tema="Accion">Burger de cerdo ibérico 150 g, crema de queso manchego, crujiente de jamón serrano, lechuga, tomate y cebolla roja.</description>
+        <calorias> 1042kcal</calorias>
+        <precio>11,50€</precio>
+        <imagen>hamburguesas/10455_Serranita.png</imagen>
+        <caracteristicas> 
+        <item tipo1="glutenfree" tipo3="queso" tipo4="verduras"></item>
+        </caracteristicas>
+    </plato>
+
+
+    
+    <plato carne="Pollo">
+        <title>Pepita Pita</title>
+        <description tema="Biografia">Contramuslo de pollo marinado en especias cajún, queso Cheddar, lechuga, tomate y cebolla caramelizada.</description>
+        <calorias> 1732kcal</calorias>
+        <precio>11,50€</precio>
+        <imagen>hamburguesas/10455_Pepita_Pita-1.png</imagen>
+        <caracteristicas> 
+        <item tipo1="glutenfree" tipo3="queso" tipo4="verduras"></item>
+        </caracteristicas>
+    </plato>
+    <plato carne="Pollo">
+        <title>Dixie</title>
+        <description tema="Terror">Burger de pollo crujiente estilo sureño, mezclum, doble de queso Cheddar, bacon y relish de tomate y jalapeños.</description>
+        <calorias> 832kcal</calorias>
+        <precio>11,50€</precio>
+        <imagen>hamburguesas/10455_Dixie.png</imagen>
+        <caracteristicas> 
+        <item tipo1="glutenfree" tipo3="queso" tipo4="verduras" tipo6="bacon"></item>
+        </caracteristicas>
+    </plato>
+    <plato carne="Pollo">
+        <title>Hindi</title>
+        <description tema="Animacion">Burger de pollo, salsa de curry y mango, anacardos, lechuga, tomate y cebolla roja.</description>
+        <calorias> 1234kcal</calorias>
+        <precio> 9,50€</precio>
+        <imagen>hamburguesas/10455_Hindi.png</imagen>
+        <caracteristicas> 
+        <item tipo1="glutenfree" tipo4="verduras"></item>
+        </caracteristicas>
+    </plato>
+</platos>
